@@ -18,7 +18,7 @@ install.packages("Rcpp")
 
 ## More info
 
-A complete explanation of the experiment can be found [at fronkonstin](https://fronkonstin.com/2019/01/08/rcpp,-camaron-de-la-isla-and-the-beauty-of-maths/)
+A complete explanation of the experiment can be found [at fronkonstin](https://fronkonstin.com/)
 
 
 ## Authors
